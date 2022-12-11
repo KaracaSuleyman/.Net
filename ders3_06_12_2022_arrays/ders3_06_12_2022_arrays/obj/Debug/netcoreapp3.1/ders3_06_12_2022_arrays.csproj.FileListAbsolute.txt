@@ -1,0 +1,13 @@
+C:\Users\ML105\Desktop\C#\ders3_06_12_2022_arrays\ders3_06_12_2022_arrays\bin\Debug\netcoreapp3.1\ders3_06_12_2022_arrays.exe
+C:\Users\ML105\Desktop\C#\ders3_06_12_2022_arrays\ders3_06_12_2022_arrays\bin\Debug\netcoreapp3.1\ders3_06_12_2022_arrays.deps.json
+C:\Users\ML105\Desktop\C#\ders3_06_12_2022_arrays\ders3_06_12_2022_arrays\bin\Debug\netcoreapp3.1\ders3_06_12_2022_arrays.runtimeconfig.json
+C:\Users\ML105\Desktop\C#\ders3_06_12_2022_arrays\ders3_06_12_2022_arrays\bin\Debug\netcoreapp3.1\ders3_06_12_2022_arrays.runtimeconfig.dev.json
+C:\Users\ML105\Desktop\C#\ders3_06_12_2022_arrays\ders3_06_12_2022_arrays\bin\Debug\netcoreapp3.1\ders3_06_12_2022_arrays.dll
+C:\Users\ML105\Desktop\C#\ders3_06_12_2022_arrays\ders3_06_12_2022_arrays\bin\Debug\netcoreapp3.1\ders3_06_12_2022_arrays.pdb
+C:\Users\ML105\Desktop\C#\ders3_06_12_2022_arrays\ders3_06_12_2022_arrays\obj\Debug\netcoreapp3.1\ders3_06_12_2022_arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ML105\Desktop\C#\ders3_06_12_2022_arrays\ders3_06_12_2022_arrays\obj\Debug\netcoreapp3.1\ders3_06_12_2022_arrays.AssemblyInfoInputs.cache
+C:\Users\ML105\Desktop\C#\ders3_06_12_2022_arrays\ders3_06_12_2022_arrays\obj\Debug\netcoreapp3.1\ders3_06_12_2022_arrays.AssemblyInfo.cs
+C:\Users\ML105\Desktop\C#\ders3_06_12_2022_arrays\ders3_06_12_2022_arrays\obj\Debug\netcoreapp3.1\ders3_06_12_2022_arrays.csproj.CoreCompileInputs.cache
+C:\Users\ML105\Desktop\C#\ders3_06_12_2022_arrays\ders3_06_12_2022_arrays\obj\Debug\netcoreapp3.1\ders3_06_12_2022_arrays.dll
+C:\Users\ML105\Desktop\C#\ders3_06_12_2022_arrays\ders3_06_12_2022_arrays\obj\Debug\netcoreapp3.1\ders3_06_12_2022_arrays.pdb
+C:\Users\ML105\Desktop\C#\ders3_06_12_2022_arrays\ders3_06_12_2022_arrays\obj\Debug\netcoreapp3.1\ders3_06_12_2022_arrays.genruntimeconfig.cache
