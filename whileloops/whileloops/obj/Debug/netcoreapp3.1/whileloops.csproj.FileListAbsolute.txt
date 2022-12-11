@@ -1,0 +1,14 @@
+C:\Users\ML105\Desktop\C#\ders29_11_2022\whileloops\whileloops\bin\Debug\netcoreapp3.1\whileloops.exe
+C:\Users\ML105\Desktop\C#\ders29_11_2022\whileloops\whileloops\bin\Debug\netcoreapp3.1\whileloops.deps.json
+C:\Users\ML105\Desktop\C#\ders29_11_2022\whileloops\whileloops\bin\Debug\netcoreapp3.1\whileloops.runtimeconfig.json
+C:\Users\ML105\Desktop\C#\ders29_11_2022\whileloops\whileloops\bin\Debug\netcoreapp3.1\whileloops.runtimeconfig.dev.json
+C:\Users\ML105\Desktop\C#\ders29_11_2022\whileloops\whileloops\bin\Debug\netcoreapp3.1\whileloops.dll
+C:\Users\ML105\Desktop\C#\ders29_11_2022\whileloops\whileloops\bin\Debug\netcoreapp3.1\whileloops.pdb
+C:\Users\ML105\Desktop\C#\ders29_11_2022\whileloops\whileloops\obj\Debug\netcoreapp3.1\whileloops.csproj.AssemblyReference.cache
+C:\Users\ML105\Desktop\C#\ders29_11_2022\whileloops\whileloops\obj\Debug\netcoreapp3.1\whileloops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ML105\Desktop\C#\ders29_11_2022\whileloops\whileloops\obj\Debug\netcoreapp3.1\whileloops.AssemblyInfoInputs.cache
+C:\Users\ML105\Desktop\C#\ders29_11_2022\whileloops\whileloops\obj\Debug\netcoreapp3.1\whileloops.AssemblyInfo.cs
+C:\Users\ML105\Desktop\C#\ders29_11_2022\whileloops\whileloops\obj\Debug\netcoreapp3.1\whileloops.csproj.CoreCompileInputs.cache
+C:\Users\ML105\Desktop\C#\ders29_11_2022\whileloops\whileloops\obj\Debug\netcoreapp3.1\whileloops.dll
+C:\Users\ML105\Desktop\C#\ders29_11_2022\whileloops\whileloops\obj\Debug\netcoreapp3.1\whileloops.pdb
+C:\Users\ML105\Desktop\C#\ders29_11_2022\whileloops\whileloops\obj\Debug\netcoreapp3.1\whileloops.genruntimeconfig.cache
