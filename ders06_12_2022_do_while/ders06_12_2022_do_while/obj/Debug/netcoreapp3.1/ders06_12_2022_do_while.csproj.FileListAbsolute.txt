@@ -1,0 +1,14 @@
+C:\Users\ML105\Desktop\C#\ders06_12_2022_do_while\ders06_12_2022_do_while\bin\Debug\netcoreapp3.1\ders06_12_2022_do_while.exe
+C:\Users\ML105\Desktop\C#\ders06_12_2022_do_while\ders06_12_2022_do_while\bin\Debug\netcoreapp3.1\ders06_12_2022_do_while.deps.json
+C:\Users\ML105\Desktop\C#\ders06_12_2022_do_while\ders06_12_2022_do_while\bin\Debug\netcoreapp3.1\ders06_12_2022_do_while.runtimeconfig.json
+C:\Users\ML105\Desktop\C#\ders06_12_2022_do_while\ders06_12_2022_do_while\bin\Debug\netcoreapp3.1\ders06_12_2022_do_while.runtimeconfig.dev.json
+C:\Users\ML105\Desktop\C#\ders06_12_2022_do_while\ders06_12_2022_do_while\bin\Debug\netcoreapp3.1\ders06_12_2022_do_while.dll
+C:\Users\ML105\Desktop\C#\ders06_12_2022_do_while\ders06_12_2022_do_while\bin\Debug\netcoreapp3.1\ders06_12_2022_do_while.pdb
+C:\Users\ML105\Desktop\C#\ders06_12_2022_do_while\ders06_12_2022_do_while\obj\Debug\netcoreapp3.1\ders06_12_2022_do_while.csproj.AssemblyReference.cache
+C:\Users\ML105\Desktop\C#\ders06_12_2022_do_while\ders06_12_2022_do_while\obj\Debug\netcoreapp3.1\ders06_12_2022_do_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ML105\Desktop\C#\ders06_12_2022_do_while\ders06_12_2022_do_while\obj\Debug\netcoreapp3.1\ders06_12_2022_do_while.AssemblyInfoInputs.cache
+C:\Users\ML105\Desktop\C#\ders06_12_2022_do_while\ders06_12_2022_do_while\obj\Debug\netcoreapp3.1\ders06_12_2022_do_while.AssemblyInfo.cs
+C:\Users\ML105\Desktop\C#\ders06_12_2022_do_while\ders06_12_2022_do_while\obj\Debug\netcoreapp3.1\ders06_12_2022_do_while.csproj.CoreCompileInputs.cache
+C:\Users\ML105\Desktop\C#\ders06_12_2022_do_while\ders06_12_2022_do_while\obj\Debug\netcoreapp3.1\ders06_12_2022_do_while.dll
+C:\Users\ML105\Desktop\C#\ders06_12_2022_do_while\ders06_12_2022_do_while\obj\Debug\netcoreapp3.1\ders06_12_2022_do_while.pdb
+C:\Users\ML105\Desktop\C#\ders06_12_2022_do_while\ders06_12_2022_do_while\obj\Debug\netcoreapp3.1\ders06_12_2022_do_while.genruntimeconfig.cache
